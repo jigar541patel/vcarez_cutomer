@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="32" viewBox="0 0 35 32">
+  <g id="Group_1379" data-name="Group 1379" transform="translate(-297 -55)">
+    <g id="shopping-cart" transform="translate(297 55)">
+      <path id="Path_39" data-name="Path 39" d="M9.7,17.641h16a.882.882,0,0,0,.848-.64L30.072,4.653a.882.882,0,0,0-.848-1.124H7.666L7.035.691A.882.882,0,0,0,6.174,0H.882a.882.882,0,1,0,0,1.764H5.466l3.184,14.33A2.646,2.646,0,0,0,9.7,21.168H25.7a.882.882,0,1,0,0-1.764H9.7a.882.882,0,0,1,0-1.764ZM28.054,5.292,25.03,15.876H10.409L8.057,5.292Zm0,0" fill="#fff"/>
+      <path id="Path_40" data-name="Path 40" d="M150,362.646A2.646,2.646,0,1,0,152.646,360,2.649,2.649,0,0,0,150,362.646Zm2.646-.882a.882.882,0,1,1-.882.882A.883.883,0,0,1,152.646,361.764Zm0,0" transform="translate(-141.18 -338.832)" fill="#fff"/>
+      <path id="Path_41" data-name="Path 41" d="M362,362.646A2.646,2.646,0,1,0,364.646,360,2.649,2.649,0,0,0,362,362.646Zm2.646-.882a.882.882,0,1,1-.882.882A.883.883,0,0,1,364.646,361.764Zm0,0" transform="translate(-340.714 -338.832)" fill="#fff"/>
+    </g>
+    <g id="Group_21" data-name="Group 21">
+      <circle id="Ellipse_52" data-name="Ellipse 52" cx="8.5" cy="8.5" r="8.5" transform="translate(315 68)" fill="#fff"/>
+      <text id="_0" data-name="0" transform="translate(319 82)" fill="#1bace3" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">0</tspan></text>
+    </g>
+  </g>
+</svg>

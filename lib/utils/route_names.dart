@@ -1,0 +1,27 @@
+//Routes Name
+const String routeSplash = "/splash";
+const String routeUploadPrescription = "/uploadPrescription";
+const String routeMedicineDetails = "/medicineDetails";
+const String routeSearchDetails = "/searchDetailList";
+const String routeMyPrescription = "/myPrescription";
+const String routeLogin = "/login";
+const String routeSignup = "/signup";
+const String routeDashboard = "/dashboard";
+const String routeEditProfile = "/editProfile";
+const String routeMyProfile = "/myProfile";
+const String routeQuotationHistory = "/quotationHistory";
+const String routePrivilegePlan = "/privilegePlanList";
+const String routeQuotationDetailList = "/quotationDetailList";
+const String routeShopQuotationDetail = "/shopQuotationDetail";
+const String routeForgotPassword = "/forgotPassword";
+const String routeMedicineList = "/medicineList";
+const String routeMyOrderList = "/myOrderList";
+const String routeMyAddressList = "/myAddressList";
+const String routeFeatureBrandDetail = "/featuredBrandDetail";
+const String routeCartList = "/myCartList";
+const String routeTrendingMedicineList = "/trendingMedicineList";
+const String routeCategoryMedicineList = "/categoryMedicineList";
+const String routeSaveAddress = "/saveAddress";
+const String routePaymentMethod = "/paymentMethod";
+const String routeOrderConfirmation = "/orderSuccessConfirm";
+const String routePlanConfirmScreen = "/planSuccessConfirm";

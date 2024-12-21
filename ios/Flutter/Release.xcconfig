@@ -1,0 +1,2 @@
+#include? "Pods/Target Support Files/Pods-VCarez Customer/Pods-VCarez Customer.release.xcconfig"
+#include "Generated.xcconfig"
